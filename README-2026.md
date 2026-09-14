@@ -206,7 +206,7 @@ I’ll post as soon as companies open 2026 internship applications.
 | Cerebras | Software Engineer Intern | Toronto, ON | Closed🔒 | Jun 10, 2026 |
 | 1Password | Developer Intern, Front-End Platform | Remote, Canada | Closed🔒 | Jun 10, 2026 |
 | ↳ | Developer Intern, Trust Platforms | Remote, Canada | Closed🔒 | Jun 10, 2026 |
-| Quandri | Product Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/quandri/d0f82989-1a8d-49a8-9954-f0c0a213f071/apply) | Jun 10, 2026 |
+| Quandri | Product Co-op | Vancouver, BC | Closed🔒 | Jun 10, 2026 |
 | Block | Applied Research Intern Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008) | Jun 9, 2026 |
 | TribalScale | Agile Software Engineer Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/tribalscale/jobs/4687337006) | Jun 9, 2026 |
 | 1Password | Developer Intern, Data Security | Remote, Canada | Closed🔒 | Jun 9, 2026 |
