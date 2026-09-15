@@ -133,7 +133,7 @@ I’ll post as soon as companies open 2026 internship applications.
  | McKesson | AI & Strategic Analytics Intern | Mississauga, ON | Closed🔒 | Jul 14, 2026 |
 | DRW | Software Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/drweng/jobs/7991196) | Jul 13, 2026 | 
 | ↳ | AI/ML Research Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/drweng/jobs/7991171) | Jul 13, 2026 | 
- | Xsolla | AI Engineer Intern | Montreal, QC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/) | Jul 10, 2026 |
+ | Xsolla | AI Engineer Intern | Montreal, QC, Canada | Closed🔒 | Jul 10, 2026 |
 | Later | Software Development Co-op | Vancouver, BC | Closed🔒 | Jul 9, 2026 | 
  | McKesson | Data Governance Analyst Intern | Mississauga, ON | Closed🔒 | Jul 9, 2026 | 
  | Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | Closed🔒 | Jul 7, 2026 | 
