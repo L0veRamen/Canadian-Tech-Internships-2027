@@ -57,6 +57,11 @@ Built to help students in Canada find verified tech internships faster.
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
 | Microsoft | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.careers.microsoft.com/careers/job/1970393556991773?hl=en) | Sep 15, 2026 |
+| Google | Student Researcher, BS/MS | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) | Sep 14, 2026 |
+| ↳ | Student Researcher, PhD | Toronto, ON / Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) | Sep 14, 2026 |
+| Equitable Bank | Commercial Lending AI Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/eqbank/54045eae-334a-4486-8e97-96e49e6a1487/) | Sep 14, 2026 |
+| ↳ | Retail Lending AI Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/eqbank/1c46930a-7ffe-4760-9d31-e08ea191ddea/) | Sep 14, 2026 |
+| Definity Financial | Technology Business Administration Co-op Intern | Toronto, ON / Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9345) | Sep 14, 2026 |
 | Robinhood | Software Developer Intern, Backend | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/robinhood/jobs/8142930) | Sep 14, 2026 |
 | ↳ | Software Developer Intern, Web | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/robinhood/jobs/8199744) | Sep 14, 2026 |
 | ↳ | Software Developer Intern/Co-op, Backend | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/robinhood/jobs/8194428) | Sep 14, 2026 |
