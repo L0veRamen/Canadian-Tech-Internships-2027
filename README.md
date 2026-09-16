@@ -56,6 +56,10 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Sun Life | Data Governance Analyst Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Governance-Analyst--Winter-2027-_JR00127829) | Sep 15, 2026 |
+| CIBC | Risk Analytics Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885) | Sep 15, 2026 |
+| Intelcom \| Dragonfly | Data Analyst Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/HR-Data-Analysis-Intern_JR111758-1) | Sep 15, 2026 |
+| RTX | Digital Engine Services, Ground Cloud Software Developer | Longueuil, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-MD--1000-Blvd-Marie-Victorin--MD-BLDG/Stage---Hiver-2027---Service-Numriques-pour-les-Moteurs---Dveloppeur-logiciel--Internship---Winter-2027-Digital-Engine-Services--DES----Ground-cloud-software-developer_01874389) | Sep 15, 2026 |
 | Microsoft | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.careers.microsoft.com/careers/job/1970393556991773?hl=en) | Sep 15, 2026 |
 | Google | Student Researcher, BS/MS | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) | Sep 14, 2026 |
 | ↳ | Student Researcher, PhD | Toronto, ON / Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/75043041429070534) | Sep 14, 2026 |
