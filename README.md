@@ -51,6 +51,7 @@ Built to help students in Canada find verified tech internships faster.
 
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 
+
 <!-- prettier-ignore -->
 
 | Company | Role | Location | Apply | Date Posted |
@@ -373,7 +374,7 @@ Built to help students in Canada find verified tech internships faster.
 | British Columbia Investment | Risk Analytics Solutions Co-op/Intern | Victoria, BC | Closed🔒 | May 14, 2026 |
 | ↳ | Risk Reporting & Data Co-op/Internship | Victoria, BC | Closed🔒 | May 14, 2026 |
 | ↳ | Data & Analytics Engineer Co-op/Intern | Victoria, BC / Vancouver, BC| Closed🔒 | May 14, 2026 |
-
+| Microsoft | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.careers.microsoft.com/careers/job/1970393556991773?domain=microsoft.com&hl=en&fbclid=PAcGRvZgRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAafbK2KY0WfoiSy_IpmLnIn2sPLwZPU3g8pAnbwSMUhzcu0V1BBlXBqI01PhHg_aem_TdbZPwXKrQTk4R6yqdU0Dw) | Sep 15 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
