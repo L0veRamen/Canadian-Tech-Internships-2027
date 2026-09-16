@@ -89,7 +89,7 @@ Built to help students in Canada find verified tech internships faster.
 | GoMaterials | Data Quality Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/gomaterials/be3fb0e8-54a1-43de-b998-99dd071eed19/) | Sep 9, 2026 |
 | Hexagon AB | Digital Hardware Engineer Intern | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) | Sep 9, 2026 |
 | Pomerleau | AI Product Analyst Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3620) | Sep 9, 2026 |
-| ↳  | Software Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3476) | Sep 9, 2026 |
+| ↳  | Software Developer Intern | Montreal, QC | Closed🔒 | Sep 9, 2026 |
 | ↳  | Forward Deployed AI Solutions Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://pomerleau.avature.net/en_US/Jobs/JobDetail/3619) | Sep 9, 2026 |
 | Kinaxis | Developer Intern, AI Solutions | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | Sep 9, 2026 |
 | SECURE | Measurement Intern | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-canada-secure.icims.com/jobs/1954/job?mobile=true&needsRedirect=false) | Sep 9, 2026 |
@@ -213,7 +213,7 @@ Built to help students in Canada find verified tech internships faster.
 | General Motors | Mechatronic Infrastructure Diagnostic Systems Co-op | Markham, ON | Closed🔒 | Sep 2, 2026 |
 | Zurich Insurance | IT Data Governance Intern | Toronto, ON | Closed🔒 | Sep 1, 2026 |
 | ↳ | Data Engineering Intern | Toronto, ON | Closed🔒 | Sep 1, 2026 |
-| University Health Network | Research Technical Assistant, AI and Multimodal Foundation Models | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000146744019) | Sep 1, 2026 |
+| University Health Network | Research Technical Assistant, AI and Multimodal Foundation Models | Toronto, ON | Closed🔒 | Sep 1, 2026 |
 | General Dynamics UK | Software Engineering Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000146822449) | Sep 1, 2026 |
 | Grass Valley | Software Development Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://grassvalley.applytojob.com/apply/8vAlbSBZpB/Stagiaire-Dveloppement-De-Logiciel-Intern-Software-Development) | Sep 1, 2026 |
 | Riverside Natural Foods | Junior Data Analyst Intern/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/riversidenaturalfoodsltd/jobs/5409377008) | Sep 1, 2026 |
@@ -248,7 +248,7 @@ Built to help students in Canada find verified tech internships faster.
 | McGill University | Web Development Intern | Montreal, QC | Closed🔒 | Sep 1, 2026 |
 | Intelcom \| Dragonfly | R&D Solution Builder Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR111563) | Aug 31, 2026 |
 | ↳ | Full-Stack Developer Intern, Route Optimization | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Full-Stack-Developer-Intern---Route-Optimization_JR111570-1) | Aug 31, 2026 |
-| ↳ | Front-end Developer Intern, Mobile Application | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Front-end-Developer-Intern---Mobile-Application_JR111571) | Aug 31, 2026 |
+| ↳ | Front-end Developer Intern, Mobile Application | Montreal, QC | Closed🔒 | Aug 31, 2026 |
 | ↳ | Routing Data Analytics & Optimization Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Routing-Data-Analytics---Optimization-Intern_JR111557-1) | Aug 31, 2026 |
 | ↳ | AI Data Analyst Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/AI-Data-Analyst-Intern_JR111568) | Aug 31, 2026 |
 | ↳ | Business Intelligence Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Business-Intelligence--BI--Developer-Intern_JR111555) | Aug 31, 2026 |
