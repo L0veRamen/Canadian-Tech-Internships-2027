@@ -56,7 +56,9 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| Apera AI | Software Developer Co-op, C++ | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007) | Sep 16, 2026 |
+| Thales | Computer Science Intern Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa---Palladium/Computer-Science-Intern-or-Coop_R0338233) | Sep 17, 2026 |
+| Apera AI | Software Developer Co-op, Full Stack | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/aperaaiinc/jobs/5240259007) | Sep 16, 2026 |
+| ↳ | Software Developer Co-op, C++ | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007) | Sep 16, 2026 |
 | ↳ | Machine Learning Applied Scientist Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007) | Sep 16, 2026 |
 | Qualcomm | Sensors Subsystem Engineering Intern, Low-Power AI, Audio | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446721109229) | Sep 15, 2026 |
 | ↳ | Sensors Subsystem Engineering Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446721109168) | Sep 15, 2026 |
