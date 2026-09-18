@@ -169,7 +169,7 @@ I’ll post as soon as companies open 2026 internship applications.
 | Crowdstrike | GTM Automation Intern | Remote, Canada | Closed🔒 | Jun 18, 2026 |
 | 1Password | Developer Intern - Open Source | Remote, Canada | Closed🔒 | Jun 17, 2026 |
 | Sandvik | Embedded Software Developer Intern | Montreal, QC | Closed🔒 | Jun 17, 2026 |
-| Definity Financial | Data Specialist Co-op Intern, Claim Operations Management | Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9148) | Jun 17, 2026 |
+| Definity Financial | Data Specialist Co-op Intern, Claim Operations Management | Waterloo, ON | Closed🔒 | Jun 17, 2026 |
 | Caterpillar | Software Designer Intern | Laval, QC | Closed🔒 | June 17, 2026 |
 | Alexion | Data & AI Solutions Associate | Mississauga, ON | Closed🔒 | Jun 17, 2026 |
 | Marvell | Design Verification Engineer Intern | Ottawa, ON | Closed🔒 | Jun 17, 2026 |
