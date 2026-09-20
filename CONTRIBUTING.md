@@ -5,7 +5,7 @@ You can contribute **with or without coding**.
 
 ---
 
-## 🚀 Easiest way (recommended): Use the Issue Form
+## 🚀 Use the Issue Form
 
 **No fork. No Markdown. No PR writing.**
 
@@ -33,14 +33,6 @@ Please only submit:
 - From **verified sources** (company site, LinkedIn, Workday, Greenhouse, Lever, etc.)
 
 ---
-
-## 📄 Manual contribution (optional)
-
-If you prefer opening a PR yourself, add a row to the table in `README.md` using this format:
-
-| Company | Role | Location | Apply | Date Posted |
-|--------|------|----------|:-----:|-------------|
-| Shopify | Software Developer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.shopify.com/careers) | Jul 01 |
 
 **Guidelines:**
 - Keep locations short (`Toronto, ON`, `Remote`)
