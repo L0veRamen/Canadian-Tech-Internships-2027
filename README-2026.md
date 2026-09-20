@@ -67,7 +67,7 @@ I’ll post as soon as companies open 2026 internship applications.
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC | Closed🔒 | Aug 7, 2026 |
 | WSP | Business Intelligence Intern | Toronto, ON / Ottawa, ON| Closed🔒 | Aug 7, 2026 | 
  | Ciena | Software Developer Intern | Ottawa, ON | Closed🔒 | Aug 7, 2026 |
- | Alayacare | Full-Stack Developer Intern, Python | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://alayacare.com/open-positions?gh_jid=8687981002) | Aug 6, 2026 | 
+ | Alayacare | Full-Stack Developer Intern, Python | Montreal, QC | Closed🔒 | Aug 6, 2026 | 
 | Terminal | Software Engineer Intern, Data Platform | Toronto, ON | Closed🔒 | Aug 6, 2026 | 
  | ↳ | Software Engineer Intern, Backend | Toronto, ON | Closed🔒 | Aug 6, 2026 | 
  | Harris Computer | Technology Architecture Intern, Corporate AI Foundation | Rimouski, QC | Closed🔒 | Aug 6, 2026 | 
