@@ -53,6 +53,7 @@ Built to help students in Canada find verified tech internships faster.
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 
 
+
 <!-- prettier-ignore -->
 
 | Company | Role | Location | Apply | Date Posted |
@@ -532,7 +533,7 @@ Built to help students in Canada find verified tech internships faster.
 | British Columbia Investment | Risk Analytics Solutions Co-op/Intern | Victoria, BC | Closed🔒 | May 14, 2026 |
 | ↳ | Risk Reporting & Data Co-op/Internship | Victoria, BC | Closed🔒 | May 14, 2026 |
 | ↳ | Data & Analytics Engineer Co-op/Intern | Victoria, BC / Vancouver, BC| Closed🔒 | May 14, 2026 |
-
+| Kinaxis | Intern Developer, AI Solutions | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job?jr_id=6aa13137500b01124c77bbec&mobile=false&width=1195&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Oct 1 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
