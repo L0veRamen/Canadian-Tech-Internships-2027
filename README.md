@@ -53,6 +53,7 @@ Built to help students in Canada find verified tech internships faster.
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 
 
+
 <!-- prettier-ignore -->
 
 | Company | Role | Location | Apply | Date Posted |
@@ -532,7 +533,7 @@ Built to help students in Canada find verified tech internships faster.
 | British Columbia Investment | Risk Analytics Solutions Co-op/Intern | Victoria, BC | Closed🔒 | May 14, 2026 |
 | ↳ | Risk Reporting & Data Co-op/Internship | Victoria, BC | Closed🔒 | May 14, 2026 |
 | ↳ | Data & Analytics Engineer Co-op/Intern | Victoria, BC / Vancouver, BC| Closed🔒 | May 14, 2026 |
-
+| Autodesk | Software Development Internship | Toronto | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.autodesk.com/careers/job/1443153772180?domain=autodesk.com&src=JB-10065&source=LinkedIn) | Oct 1 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
