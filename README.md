@@ -58,6 +58,7 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Kinaxis | Intern Developer, AI Solutions (Winter 2027) | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job) | Oct 1, 2026 |
 | Intact | Software Developer 1 Intern/Co-op (Winter 2027) | St. John's, NL | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I---4-months-internship--Co-op--Winter-2027-_R155972) | Sep 29, 2026 | 
  | Ciena | Hardware Design and Verification Intern, PCBA (Winter 2027) | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787) | Sep 29, 2026 | 
  | Alexion | Development Operations AI & Automation Enablement Co-op Intern (Winter 2027) | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://astrazeneca.wd3.myworkdayjobs.com/alexion/job/Canada---Mississauga/Co-Op--Development-Operations-AI---Automation-Enablement-Intern_R-260415) | Sep 29, 2026 | 
@@ -533,7 +534,7 @@ Built to help students in Canada find verified tech internships faster.
 | British Columbia Investment | Risk Analytics Solutions Co-op/Intern | Victoria, BC | Closed🔒 | May 14, 2026 |
 | ↳ | Risk Reporting & Data Co-op/Internship | Victoria, BC | Closed🔒 | May 14, 2026 |
 | ↳ | Data & Analytics Engineer Co-op/Intern | Victoria, BC / Vancouver, BC| Closed🔒 | May 14, 2026 |
-| Kinaxis | Intern Developer, AI Solutions | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/35343/intern-developer%2c-ai-solutions/job?jr_id=6aa13137500b01124c77bbec&mobile=false&width=1195&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Oct 1 |
+
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
